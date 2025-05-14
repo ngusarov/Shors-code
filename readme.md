@@ -1,3 +1,3 @@
 ### Quantum computing exam project
 
-Shor's algorithm with noise. Implemented in Qiskit simulator.
+Shor's code with noise. Implemented in Qiskit simulator.
